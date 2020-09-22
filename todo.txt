@@ -1,0 +1,4 @@
+1 - Install Express
+2 - init express and start server
+
+npm install @hapi/joi@15.1.0
